@@ -2,7 +2,7 @@ GrubPac - Employee Management System
 
 A professional, role-based Employee Management System (EMS) built with Next.js 14+, TypeScript, and Tailwind CSS. This application features a sleek light-themed UI designed for clarity and efficiency.
 
-## Key Features
+Key Features
 
 Role-Based Access Control:
 - Admin/Owner: Full overview of company stats, payroll, and leave approvals.
@@ -25,8 +25,7 @@ Payroll & Salary: Detailed salary breakdown and payslip generation UI.
 
 Modern UI/UX: Built with a premium focus using Framer Motion for animations, Lucide icons, and a custom System Darker Blue brand color.
 
-## Tech Stack
-
+Tech Stack
 - Frontend: Next.js 14 (App Router), React, TypeScript
 - Styling: Tailwind CSS, Lucide Icons
 - State Management: Zustand
@@ -34,7 +33,7 @@ Modern UI/UX: Built with a premium focus using Framer Motion for animations, Luc
 - Visualization: Recharts
 - Date Formatting: date-fns
 
-## Project Structure
+Project Structure
 
 ```
 src/
@@ -47,7 +46,7 @@ src/
 └── ...
 ```
 
-## Getting Started
+Getting Started
 
 Prerequisites
 
@@ -81,4 +80,5 @@ Use the following emails to test different roles:
 - Admin: admin@ems.com
 - Team Lead: sarah@ems.com
 - Employee: mike@ems.com
+
 
